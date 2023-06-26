@@ -1,6 +1,10 @@
-# HTML
+
 ***
-### Curso ministrado pelo Tutor: Gustavo Guanabara do seu canal no Youtube e também no site do seu Curso em Vídeo.
+![](https://www.iconfinder.com/icons/940979/download/png/256)
+![logo curso em video](https://github.com/userdanixdev/HTML/assets/132594952/65ff4878-2c9f-4558-a318-1ebbc3037af6)
+
+
+### Curso de HTML ministrado pelo Tutor: Gustavo Guanabara. 
 ***
 Uma breve história da evolução da internet :
 
