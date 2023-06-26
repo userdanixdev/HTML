@@ -25,6 +25,6 @@ Uma breve história da evolução da internet :
 >
 > Devido ao avanço em redes, a comunicação entre os computadores deveria existir, foi assim criada o NCP(primeiro protocolo)
 > Surgiram do NCP, que dava muitos problemas, o:  ``FTP`` --> para transferência de dados e o ``DNS`` ----> para identificação de máquinas;
-
+***
 *  ``Robert Kahn`` em 1973 cria o ``TCP =  Transfer Control Protocol`` Porém, não conseguia identificar máquinas, para isso foi criado o ``IP = Internetwork Protocol``
-*  Final dos anos 70 a internet já era uma grande imensa, em 1980 a CERN, empresa que criou o LHC - Acelerador de partículas, ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência`` e juntamente a linguagem para hipertextos, o ``HTML``
+*  No final dos anos 70 a internet já era uma rede imensa. Em 1980 ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência`` e juntamente a linguagem para hipertextos, o ``HTML``.
