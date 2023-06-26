@@ -1,5 +1,9 @@
 # HTML
 ***
+### Curso ministrado pelo Tutor: Gustavo Guanabara do seu canal no Youtube e também no site do seu Curso em Vídeo.
+***
+Uma breve história da evolução da internet :
+
 > Índios se comunicavam por sinais de fumaça
 >
 > As primeiras comunicações eram por desenhos nas parades
