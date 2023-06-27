@@ -6,7 +6,7 @@
 
 
 ### Curso de HTML ministrado pelo Tutor: Gustavo Guanabara. 
-Segue seu site: https://www.cursoemvideo.com/cursos/
+Segue seu site: https://www.cursoemvideo.com
 ***
 
 Uma breve história da evolução da internet :
