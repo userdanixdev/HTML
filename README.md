@@ -33,5 +33,11 @@ ________________________________________________________________________________
 
 ## Evolução histórica HTML 
 
-1.1990 - HTTP - HTML - Tim Berners-Lee
-1.--- Gopher Projetc --- Primeiro site - Somente leitura de textos.
+1. 1990 - HTTP - HTML - Criador : Tim Berners-Lee
+1. --- Gopher Projetc --- Primeiro site - Somente leitura de textos.
+2. MOSAIC - Site mais completopLinks multimídia (universitário
+
+
+
+   Repositório público do Prof. Gustavo Guanabara
+Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
