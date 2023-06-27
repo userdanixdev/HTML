@@ -29,3 +29,4 @@ Uma breve história da evolução da internet :
 *  ``Robert Kahn`` em 1973 cria o ``TCP =  Transfer Control Protocol``
 *  Porém, não conseguia identificar máquinas, para isso foi criado o ``IP = Internetwork Protocol``
 *  No final dos anos 70 a internet já era uma rede imensa. Em 1980 ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência`` e juntamente a linguagem para hipertextos, o ``HTML``.
+_________________________________________________________________________________________________________________________________________________
