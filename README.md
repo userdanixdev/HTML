@@ -34,8 +34,13 @@ ________________________________________________________________________________
 ## Evolução histórica HTML 
 
 1. 1990 - HTTP - HTML - Criador : Tim Berners-Lee
-1. --- Gopher Projetc --- Primeiro site - Somente leitura de textos.
-2. MOSAIC - Site mais completopLinks multimídia (universitário
+> --- Gopher Projetc --- Primeiro site - Somente leitura de textos.
+2. 1993 - MOSAIC - Site mais completo com links multimídia (feito por universitários)
+2. 1994 - NETSCAPE - Enterprises - Principal financiador do HTML.
+> Hoje em dia existem diversos navegadores.
+> HOSTNET ---> Hospedar seu site, blog, e-commerce. Completo em WORDPRESS.
+3. 1995 - 
+
 
 
 
