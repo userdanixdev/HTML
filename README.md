@@ -45,8 +45,16 @@ ________________________________________________________________________________
 7. 2008 - HTML 5.0 com interação com CSS 3 e Javascript
 
 ***
+Breves conceitos de HTML:
 
-
+1. Humanos trabalham com sistema decimal.
+2. Computadores trabalham com ``sistema binário.``
+3. O sistema binário possui em sua natureza `´sinal quadrado.´`
+   > A modulação é transformar sinal quadrado em digital para outro computador ou local.
+   > ``Provedor de acesso`` ---->> ``DNS`` Tabela servidores com domínios brasileiros
+   > Domínio é o nome do site.
+4. Todo servidor tanto o computador tem seu IP - Endereço numérico.
+4. Todos os dados transferidos de um computador a outro são divididos em pacotes e transferidos por protocolos.
 
 
    Repositório público do Prof. Gustavo Guanabara
