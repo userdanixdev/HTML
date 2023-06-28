@@ -45,7 +45,7 @@ ________________________________________________________________________________
 7. 2008 - HTML 5.0 com interação com CSS 3 e Javascript
 
 ***
-Breves conceitos de HTML:
+Breves conceitos de dados:
 
 1. Humanos trabalham com sistema decimal.
 2. Computadores trabalham com ``sistema binário.``
