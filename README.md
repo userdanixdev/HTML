@@ -53,7 +53,7 @@ Breves conceitos de HTML:
    > A modulação é transformar sinal quadrado em digital para outro computador ou local.
    > ``Provedor de acesso`` ---->> ``DNS`` Tabela servidores com domínios brasileiros
    > Domínio é o nome do site.
-4. Todo servidor tanto o computador tem seu IP - Endereço numérico.
+4. Todo servidor tanto o computador tem seu ``IP - Endereço numérico.``
 4. Todos os dados transferidos de um computador a outro são divididos em pacotes e transferidos por protocolos.
 
 
