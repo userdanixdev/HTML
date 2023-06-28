@@ -31,7 +31,7 @@ Uma breve história da evolução da internet :
 *  No final dos anos 70 a internet já era uma rede imensa. Em 1980 ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência`` e juntamente a linguagem para hipertextos, o ``HTML``.
 _________________________________________________________________________________________________________________________________________________
 
-## Evolução histórica HTML 
+## Breve evolução histórica HTML :
 
 1. 1990 - HTTP - HTML - Criador : Tim Berners-Lee
 > --- Gopher Projetc --- Primeiro site - Somente leitura de textos.
