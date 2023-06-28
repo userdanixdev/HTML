@@ -41,7 +41,7 @@ ________________________________________________________________________________
 > HOSTNET ---> Hospedar seu site, blog, e-commerce. Completo em WORDPRESS.
 4. 1995 - HTML WorkGroup - Consórcio w3c -Na versão 03.
 5. 1997 - Versão 4 -
-6. 2007 XHTML 2.0 - Consórcio
+6. 2007 - XHTML 2.0 - Consórcio
 7. 2008 - HTML 5.0 com interação com CSS 3 e Javascript
 
 ***
