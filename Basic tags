@@ -14,12 +14,15 @@ ________________________________________________________________________________
 
 <!DOCTYPE html>  // para informar aos navegadores que o docmento é HTML //
 <html lang="pt-br">		** Para identificação do idioma **
-<head>		* Cabeçalho *
+<head>		* Cabeçalho * * Área HEAD é a configuração comportamental, ou seja, podemos alterá-la de diversas formas ***
+      <meta charset="UTF-8"/>
+      <title></title>
 
-
-</head>    * Área HEAD é a configuração comportamental *
+</head>    
 <body>
-Olá, Mundo!  * Para aparecer no site, devo escrever na área BODY e não na HEAD. **
+<h1>Olá, Mundo!</h1>  * Para aparecer no site, devo escrever na área BODY e não na HEAD. ** 'H é hierarquia de títulos, sendo o 1= H1'
+                                                                                            'H2 é o sub título de H1, H3 subtítulo de H2'               
+                                                                                                      
 
 
 </body>
