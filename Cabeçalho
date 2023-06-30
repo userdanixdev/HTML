@@ -1,9 +1,9 @@
-Cabeçalho.
+Cabeçalho deum HTML.
+Obs:  Primeiramente devemos escolher um editor de texto. Existem vários para HTML.
+      O grupo JET BRAINS possui alguns editores:
+      - PHP Storm;
+      - Notepad;
+      - Sublime.
+      *** Existem ferramentas pagas como o DREAMWEAVER. ***
 
-Primeiramente devemos escolher um editor de texto. Existem vários para HTML.
-O grupo JET BRAINS possui alguns editores:
-- PHP Storm;
-- Notepad;
-- Sublime.
-Existem ferramentas mais caras como o DREAMWEAVER.
-Padrão ASCI ou tabela ASCI é o padrão norte-americano, devemos mudar para UTF-8.
+++ Padrão ASCI ou tabela ASCI é o padrão norte-americano, ou seja, não possui acentuação.O padrão deve ser mudado para UTF-8.
