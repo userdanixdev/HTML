@@ -72,6 +72,7 @@ Breves conceitos de dados:
    > Domínio é o nome do site.
 4. Todo servidor tanto o computador tem seu ``IP - Endereço numérico.``
 4. Todos os dados transferidos de um computador a outro são divididos em pacotes e transferidos por protocolos.
+5. 
 
 
    Repositório público do Prof. Gustavo Guanabara
