@@ -16,13 +16,18 @@ ________________________________________________________________________________
 <html lang="pt-br">		** Para identificação do idioma **
 <head>		* Cabeçalho * * Área HEAD é a configuração comportamental, ou seja, podemos alterá-la de diversas formas ***
       <meta charset="UTF-8"/>
-      <title></title>
-
+      <title>Curso de HTML5</title> ** A formatação é feita em CSS atualmente, a tag 'font' foi descontinuada
+<style>
+h1 { 
+      font-family: Arial;
+      font-size: 30pt
+      color: blue;
+      text-shadow: 2px 2px 2 px black;
 </head>    
 <body>
 <h1>Olá, Mundo!</h1>  * Para aparecer no site, devo escrever na área BODY e não na HEAD. ** 'H é hierarquia de títulos, sendo o 1= H1'
-                                                                                            'H2 é o sub título de H1, H3 subtítulo de H2'               
-                                                                                                      
+<h2>Me livrando da maldição</h2>                                                                                            'H2 é o sub título de H1, H3 subtítulo de H2'               
+                                                                                             ** Porém, se eu usar o CSS no H2, a formatação pode mudar, mas a hierarquia permanece a mesma **          
 
 
 </body>
