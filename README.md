@@ -30,7 +30,7 @@ Uma breve história da evolução da internet :
 > ``NCP - Network Control Protocol`` Primeiro protocolo de comunicação cruzado por meio dos `` IMPS - Interface process mensages`` algo parecido hoje como 'roteadores'. Em que cada ponto, ou nós, possuia um para se comunicar.
 > 
 > Surgiram do NCP, o:  ``FTP`` --> para transferência de dados e o ``DNS`` ----> para identificação de máquinas, devido ao crescimento dos pontos de redes e a diminuição dos conflitos ideológicos da guerra fria.
-> O NCP era insuficiente para trocas de diferentes redes. Foi-se criado o outros meios, sendo assim.
+> O NCP era insuficiente para trocas de diferentes redes. Foi-se criado outros meios, sendo assim.
 ***
 *  ``Robert Kahn`` em 1973 cria o ``TCP =  Transfer Control Protocol``
 *  Porém, não conseguia identificar máquinas, para isso foi criado o ``IP = Internetwork Protocol``
