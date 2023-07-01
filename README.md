@@ -33,15 +33,26 @@ Uma breve história da evolução da internet :
 ***
 *  ``Robert Kahn`` em 1973 cria o ``TCP =  Transfer Control Protocol``
 *  Porém, não conseguia identificar máquinas, para isso foi criado o ``IP = Internetwork Protocol``
-*  No final dos anos 70 a internet já era uma rede imensa. Em 1980 ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência de hipertexto`` e juntamente a linguagem para hipertextos, o ``HTML``.
+*  No final dos anos 70 a internet já era uma rede imensa.
+*  ARPANET - Dividiu-se em:
+*  1. ``milnet``- Military net
+   2. ``NSFNET`` - National Science Foundation
+   3.  Redes comerciais para fins lucrativos.
+* O termo ``Internet`` cunhou-se a partir das divisões da internet:
+  1. ``Interconnect networking``
+  2. ``Internetworking``
+  3. Por fim: ``Internet``
+*  Em 1980 ``Tim Berners-Lee, um físico`` criou o ``Hiper Texto`` = Imagens, textos, sons e conteúdos multimídia e em 1990 criou um protocolo para esses arquivos o ``HTTP`` - ``Protocolo de transferência de hipertexto`` e juntamente a linguagem para hipertextos, o ``HTML``.
+*  `` HTTP`` é um protocolo de serviço para o ``W W W = World Wide Web ``. Assim como existem outros serviços de protocolo como o :
+     1.``SMTP`` ``POP3`` ``IMAP`` protocolos de serviços de mensagens instantâneas (e-mail)
 *  ``NETSCAPE`` = Cria o protocolo ``HTTPS - Hypertext Transfer Protocol Secure``, possibilitando o envio de dados criptografados para transações comerciaispela internet.
 _________________________________________________________________________________________________________________________________________________
 
 ## Breve evolução histórica HTML :
 
 1. 1990 - HTTP - HTML - Criador : Tim Berners-Lee
-> --- Gopher Projetc --- Primeiro site - Somente leitura de textos.
-2. 1993 - MOSAIC - Site mais completo com links multimídia (feito por universitários)
+> --- Gopher Project --- Primeiro site - Somente leitura de textos. Navegador de protocolo somente com o uso de teclado.
+2. 1993 - MOSAIC - Navegador mais completo com links multimídia (feito por universitários) - Criador: Marc Andreessen
 2. 1994 - NETSCAPE - Enterprises - Principal financiador do HTML.
 > Hoje em dia existem diversos navegadores.
 > HOSTNET ---> Hospedar seu site, blog, e-commerce. Completo em WORDPRESS.
