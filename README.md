@@ -25,7 +25,8 @@ Uma breve história da evolução da internet :
 > DARPA - Em 1969 - É criada a primeira comunicação entre computadores por distância. Tendo o apoio e desenvolvimento dos universitários da UCLA e financiamento do Governo dos EUA.
 > Motivo: Melhorar a defesa durante a Guerra Fria, para isso surgiu a REDE ARPANET -  Um rede que interligava diversos computadores em lugares distantes;
 >
-> Devido ao avanço das redes, a comunicação entre os computadores deveria existir, foi assim criada o, NCP.
+> Devido ao avanço das redes, a comunicação entre os computadores deveria existir, foi assim criada o NCP.
+> 
 > ``NCP - Network Control Protocol`` Primeiro protocolo de comunicação cruzado por meio dos `` IMPS - Interface process mensages`` algo parecido hoje como 'roteadores'. Em que cada ponto, ou nós, possuia um para se comunicar.
 > 
 > Surgiram do NCP, o:  ``FTP`` --> para transferência de dados e o ``DNS`` ----> para identificação de máquinas, devido ao crescimento dos pontos de redes e a diminuição dos conflitos ideológicos da guerra fria.
