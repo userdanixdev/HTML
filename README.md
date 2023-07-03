@@ -8,6 +8,7 @@
 
 ### Curso de HTML (_atualizado_) ministrado pelo Tutor: Gustavo Guanabara. 
 Segue seu site: https://www.cursoemvideo.com
+Segue seu canal no youtube, com vídeos atualizados de HTML e CSS: https://www.youtube.com/@EstudonautaCursos
 ***
 
 Uma breve história da evolução da internet :
