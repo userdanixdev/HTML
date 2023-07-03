@@ -2,10 +2,11 @@
 ***
 ![](https://www.iconfinder.com/icons/940979/download/png/256)
 ![logo curso em video](https://github.com/userdanixdev/HTML/assets/132594952/65ff4878-2c9f-4558-a318-1ebbc3037af6)
+![estudonauta](https://github.com/userdanixdev/HTML/assets/132594952/b38aedb0-6c3d-4890-ad83-96b76d8a6acc)
 
 
 
-### Curso de HTML ministrado pelo Tutor: Gustavo Guanabara. 
+### Curso de HTML (_atualizado_) ministrado pelo Tutor: Gustavo Guanabara. 
 Segue seu site: https://www.cursoemvideo.com
 ***
 
