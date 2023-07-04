@@ -95,6 +95,7 @@ Domínio = Pago anualmente
           
           ``TLD`` = ``Top levels domain``
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
+
           `` URL = Uniform resource location``
          
           
