@@ -12,7 +12,7 @@ Segue seu site: https://www.cursoemvideo.com
 Segue seu canal no youtube, com vídeos atualizados de HTML e CSS: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 ***
 
-Uma breve história da evolução da internet :
+## Uma breve história da evolução da internet :
 
 > Índios se comunicavam por sinais de fumaça;
 >
@@ -34,7 +34,7 @@ Uma breve história da evolução da internet :
 > 
 > Surgiram do NCP, o:  ``FTP`` --> para transferência de dados e o ``DNS`` ----> para identificação de máquinas, devido ao crescimento dos pontos de redes e a diminuição dos conflitos ideológicos da guerra fria.
 > O NCP era insuficiente para trocas de diferentes redes. Foi-se criado outros meios, sendo assim.
-***
+
 *  ``Robert Kahn`` em 1973 cria o ``TCP =  Transfer Control Protocol``
 *  Porém, não conseguia identificar máquinas, para isso foi criado o ``IP = Internetwork Protocol``
 *  No final dos anos 70 a internet já era uma rede imensa.
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 7. 2008 - HTML 5.0 com interação com CSS 3 e Javascript
 
 ***
-Breves conceitos de dados:
+# Breves conceitos de dados:
 
 1. Humanos trabalham com sistema decimal.
 2. Computadores trabalham com ``sistema binário.``
@@ -76,7 +76,18 @@ Breves conceitos de dados:
    > Domínio é o nome do site.
 4. Todo servidor tanto o computador tem seu ``IP - Endereço numérico.``
 4. Todos os dados transferidos de um computador a outro são divididos em pacotes e transferidos por protocolos.
-5. 
+5. MB = ``Megabyte`` _armazenamento_
+6. Mb = ``Megabits`` _transmissão_
+
+***
+
+# Breves conceitos de internet:
+
+
+
+
+
+
 
 
    Repositório público do Prof. Gustavo Guanabara
