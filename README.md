@@ -84,12 +84,15 @@ ________________________________________________________________________________
 # Breves conceitos de internet:
        Acesso aos servidores:
         Cliente : Faz uso do serviço de usuário.
-        Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação e demoludação para o papél inverso
+        Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação e 
+        demoludação para o papél inverso
         Cliente ---- Modem ----- Internet < ------- SERVIDOR
+
 Site para localizar IP: iplocation.net
 
 Domínio = Pago anualmente 
           Nome único
+          
           ``TLD`` = ``Top levels domain``
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
           `` URL = Uniform resource location``
