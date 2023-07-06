@@ -99,14 +99,14 @@ Exemplo de um site fictício:
 
 ``Domínio`` é apenas uma parte da URL = Uniform resource location.
 
-1.O endereço completo de um site chama-se  ``URL`` que é pago anualmente e possui nome único.
-1.Cada domínio possui, de cada site, um ``TDL`` = ``Top Levels Domain``
+1. O endereço completo de um site chama-se  ``URL`` que é pago anualmente e possui nome único.
+1. Cada domínio possui, de cada site, um ``TDL`` = ``Top Levels Domain``
 A qual possui suas derivações: 
 
-      GTLD  =  Generic Top Level Domain
-      CCTLD =  County Code Top Level Domain
+         GTLD  =  Generic Top Level Domain
+         CCTLD =  County Code Top Level Domain
       
- 1.``martinsfranca`` chama-se de sub domínio.     
+ 1. ``martinsfranca`` chama-se de sub domínio.     
          
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
 
