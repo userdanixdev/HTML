@@ -112,11 +112,11 @@ A qual possui suas derivações:
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
 
 Tipos de Servidores:
---> Servidor de site (Webhost)
---> Servidor de Streaming
---> Servidor de arquivos
---> Servidor de e-mails
---> Servidor de nuvem
+* --> Servidor de site (Webhost)
+* --> Servidor de Streaming
+* --> Servidor de arquivos
+* --> Servidor de e-mails
+* --> Servidor de nuvem
 
          
 
