@@ -93,9 +93,10 @@ ________________________________________________________________________________
 Site para localizar IP: iplocation.net
 
 Exemplo de um site fictício:
-      ``www.martinsfranca.daniel.com.br``
-     
-      URL é endereço completo acima.
+
+   ``www.martinsfranca.daniel.com.br``
+      
+     URL é endereço completo acima.
 
 ``Domínio`` é apenas uma parte da URL = Uniform resource location.
 
@@ -110,9 +111,14 @@ A qual possui suas derivações:
          
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
 
-          `` URL = Uniform resource location``
+Tipos de Servidores:
+--> Servidor de site (Webhost)
+--> Servidor de Streaming
+--> Servidor de arquivos
+--> Servidor de e-mails
+--> Servidor de nuvem
+
          
-          
 
         
 
@@ -121,5 +127,4 @@ Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus ar
 
 
 
-   Repositório público do Prof. Gustavo Guanabara
-Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
+  
