@@ -70,8 +70,8 @@ ________________________________________________________________________________
 
 1. Humanos trabalham com sistema decimal.
 2. Computadores trabalham com ``sistema binário.``
-3. O sistema binário possui em sua natureza `´sinal quadrado.´`
-   > A modulação é transformar sinal quadrado em digital para outro computador ou local.
+3. O sistema binário possui em sua natureza `´sinal quadrado.´` ou ``sinal digital``.
+   > A modulação é transformar sinal quadrado em analógico para outro computador ou local.
    > ``Provedor de acesso`` ---->> ``DNS``= Tabela servidores com domínios brasileiros
    > Domínio é o nome do site.
 4. Todo servidor tanto o computador tem seu ``IP - Endereço numérico.``
@@ -84,10 +84,11 @@ ________________________________________________________________________________
 # Breves conceitos de internet:
        Acesso aos servidores:
         Cliente : Faz uso do serviço de usuário.
-        Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação e 
-        demoludação para o papél inverso
+        Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação/demoludação para o papél inverso.
         Cliente ---- Modem ----- Internet < ------- SERVIDOR
-
+``MO``  = Modular
+``DEM`` = Demodular  
+``GATEWAY`` = Liga os roteadores
 Site para localizar IP: iplocation.net
 
 Domínio = Pago anualmente 
