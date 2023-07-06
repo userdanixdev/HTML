@@ -90,7 +90,7 @@ ________________________________________________________________________________
 ``DEM`` = Demodular  
 ``GATEWAY`` = Liga os roteadores
 
-Site para localizar IP: iplocation.net
+      Site para localizar IP: iplocation.net
 
 Exemplo de um site fictício:
 
@@ -118,7 +118,17 @@ Tipos de Servidores:
 * --> Servidor de e-mails
 * --> Servidor de nuvem
 
-         
+## Breve histórico da internet no Brasil
+***
+* 1989 - ``MCT - Ministério da ciência e tecnologia `` lança o projeto ``Rede Nacional de Ensino e Pesquisa - RNP``
+  > Tinha o objetivo inicial de capacitar recursos humanos de alta velocidade e difundir a internet através da implantação do primeiro backbone nacional.
+* 1991 -  O primeiro ``backbone`` brasileiro é inaugurado.
+* 1995 - Fornecimento de conectividade para acesso comercial
+* 1997 - O aumento de acessos a rede e a necessidade de infraestrutura mais veloz e segura levou a investimentos em novas tecnologias.
+* 2000 - ``Backbone RNR2`` com o objetivo de interligar todo o país em uma rede de alta tecnologia.
+  > O RNP2 conecta 27 estados brasileiros e interliga mais de 300 instituições de ensino superior e pesquisa.
+* 2005 - Começa o uso de tecnologia óptica.
+
 
         
 
