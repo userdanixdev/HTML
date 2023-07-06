@@ -72,29 +72,42 @@ ________________________________________________________________________________
 2. Computadores trabalham com ``sistema binário.``
 3. O sistema binário possui em sua natureza `´sinal quadrado.´` ou ``sinal digital``.
    > A modulação é transformar sinal quadrado em analógico para outro computador ou local.
+   
    > ``Provedor de acesso`` ---->> ``DNS``= Tabela servidores com domínios brasileiros
    > Domínio é o nome do site.
-4. Todo servidor tanto o computador tem seu ``IP - Endereço numérico.``
+4. Todo servidor tanto o computador tem seu ``IP - Internete Protocol`` - endereço numérico.
 4. Todos os dados transferidos de um computador a outro são divididos em pacotes e transferidos por protocolos.
 5. MB = ``Megabyte`` _armazenamento_
 6. Mb = ``Megabits`` _transmissão_
 
 ***
 
-# Breves conceitos de internet:
-       Acesso aos servidores:
-        Cliente : Faz uso do serviço de usuário.
-        Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação/demoludação para o papél inverso.
-        Cliente ---- Modem ----- Internet < ------- SERVIDOR
+# Breves conceitos da internet:
+     Acesso aos servidores: o cliente que faz uso do serviço de usuário. 
+     Modem : Transforma ondas quadradas em ondas cenóides ou ondulares por meio da modulação/demoludação.
+     Cliente ---- Modem ----- Internet < ------- SERVIDOR
 ``MO``  = Modular
 ``DEM`` = Demodular  
 ``GATEWAY`` = Liga os roteadores
+
 Site para localizar IP: iplocation.net
 
-Domínio = Pago anualmente 
-          Nome único
-          
-          ``TLD`` = ``Top levels domain``
+Exemplo de um site fictício:
+      ``www.martinsfranca.daniel.com.br``
+     
+      URL é endereço completo acima.
+
+``Domínio`` é apenas uma parte da URL = Uniform resource location.
+
+1.O endereço completo de um site chama-se  ``URL`` que é pago anualmente e possui nome único.
+1.Cada domínio possui, de cada site, um ``TDL`` = ``Top Levels Domain``
+A qual possui suas derivações: 
+
+      GTLD  =  Generic Top Level Domain
+      CCTLD =  County Code Top Level Domain
+      
+ 1.``martinsfranca`` chama-se de sub domínio.     
+         
 Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_
 
           `` URL = Uniform resource location``
