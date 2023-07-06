@@ -109,7 +109,7 @@ A qual possui suas derivações:
       
  1. ``martinsfranca`` chama-se de sub domínio.     
          
-Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_.
+         Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_.
 
 Tipos de Servidores:
 * --> Servidor de site (Webhost)
