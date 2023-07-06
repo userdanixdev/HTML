@@ -111,15 +111,15 @@ A qual possui suas derivações:
          
          Hospedagem = Local onde o site está armazenado.  _Espaço para hospedar seus arquivos e recursos_.
 
-Tipos de Servidores:
-* --> Servidor de site (Webhost)
-* --> Servidor de Streaming
-* --> Servidor de arquivos
-* --> Servidor de e-mails
-* --> Servidor de nuvem
+         Tipos de Servidores:
+         * --> Servidor de site (Webhost)
+         * --> Servidor de Streaming
+         * --> Servidor de arquivos
+         * --> Servidor de e-mails
+         * --> Servidor de nuvem
 
-## Breve histórico da internet no Brasil
-***
+## Breve histórico da internet no Brasil:
+
 * 1989 - ``MCT - Ministério da ciência e tecnologia `` lança o projeto ``Rede Nacional de Ensino e Pesquisa - RNP``
   > Tinha o objetivo inicial de capacitar recursos humanos de alta velocidade e difundir a internet através da implantação do primeiro backbone nacional.
 * 1991 -  O primeiro ``backbone`` brasileiro é inaugurado.
