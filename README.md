@@ -128,7 +128,30 @@ A qual possui suas derivações:
 * 2000 - ``Backbone RNR2`` com o objetivo de interligar todo o país em uma rede de alta tecnologia.
   > O RNP2 conecta 27 estados brasileiros e interliga mais de 300 instituições de ensino superior e pesquisa.
 * 2005 - Começa o uso de tecnologia óptica.
+***
+## Breves conceitos de redes :
+      
+      Fonte: Dicionário de Informática - Youtube
+      Canal do youtube: https://youtu.be/q-rBtDub3Hc
 
+         Como são feitas as conexões internacionais de dados?
+A forma mais eficiente para fazer longas distâncias é via cabos de fibra óptica submarinas.
+
+      Mais de 95% dos dados internacionais são transmitidas por cabos de fibra óptica submarinas
+
+* Poucas transmissões de dados são realizadas via satélite.
+* Cabos suportam mais de 3.000 metros de profundidade. As instalações são realizadas por navios específicos.
+
+Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - America Movil Submarine Cable System-1
+> Extensão do cabo: 17.800km
+   * Jacksonville,Florida,United States
+   * 
+
+
+> Prazo do projeto: 19 meses
+> Velocidade de transmissão: 70 terabits por segundo
+> _Pode transmitir mais de 2 milhões de músicas por segundo.
+> 
 
         
 
