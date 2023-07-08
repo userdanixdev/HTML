@@ -158,20 +158,6 @@ Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - ``America Movil Submarine Cable Sy
             10. Salvador - Brasil
             11. Rio de Janeiro - Brasil
 
-```
-> Points:
-            1. Jacksonville,Florida,United States
-            2. Miami, Florida, USA
-            3. Puerto Barrios - Guatemala
-            4. Cancún - México
-            5. Puerto Plata - Republic Dominican
-            6. San Juan - Puerto Rico - USA
-            7. Barranquilla - Colombia
-            8. Cartagena - Colombia
-            9. Fortaleza - Brasil
-            10. Salvador - Brasil
-            11. Rio de Janeiro - Brasil            
-```
 _Ready for service in 2014_
 
 Parceiros: América Móvil CLARO
