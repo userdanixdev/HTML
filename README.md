@@ -160,9 +160,9 @@ Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - ``America Movil Submarine Cable Sy
 
 _Ready for service in 2014_
 
-Parceiros: América Móvil CLARO
+_Parceiros: América Móvil CLARO_
 
-_Fonte:submarinecablemap.com_ 
+_Fonte: submarinecablemap.com_ 
 
         
 
