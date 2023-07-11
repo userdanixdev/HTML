@@ -158,11 +158,11 @@ Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - ``America Movil Submarine Cable Sy
             10. Salvador - Brasil
             11. Rio de Janeiro - Brasil
 
--------------- _Ready for service in 2014_ ---------------
+--------------   _Ready for service in 2014_   ---------------
 
-----------_Parceiros: América Móvil CLARO_-------------
+----------    _Parceiros: América Móvil CLARO_   -------------
 
----------_Fonte: submarinecablemap.com_ --------------
+---------   _Fonte: submarinecablemap.com_    --------------
 
 ***
 
