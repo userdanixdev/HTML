@@ -165,6 +165,7 @@ Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - ``America Movil Submarine Cable Sy
 ---------   _Fonte: submarinecablemap.com_    --------------
 
 ***
+***
 
         
 
