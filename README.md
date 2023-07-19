@@ -169,6 +169,9 @@ Cabo de fibra óptica ``TELMEX``: ``AMX-1`` - ``America Movil Submarine Cable Sy
 
 No momento estou estudando para o concurso, 18/07/2023
 
+***
+###
+
 
         
 
